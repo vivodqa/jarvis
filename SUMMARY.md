@@ -12,6 +12,6 @@
         * [bugissueiq](bugissueiq.md)
         * [bugissuecc](bugissuecc.md)
 * [QC](qc.md)
-* FAE
-* RMA
+* [FAE](fae.md)
+* [RMA](rma.md)
 
