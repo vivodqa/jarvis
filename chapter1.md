@@ -1,3 +1,7 @@
-# First Chapter
+# DQA Command List
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+[bugid](https://www.gitbook.com/book/vivotek/jarvis/edit#/edit/master/bugid.md?_k=qzgy0h)
+
+[bugproject](https://www.gitbook.com/book/vivotek/jarvis/edit#/edit/master/bugproject.md?_k=qg3go0 "bugproject")  
+
+[bugissue](https://www.gitbook.com/book/vivotek/jarvis/edit#/edit/master/bugissue.md?_k=9ucfgb)
