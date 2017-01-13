@@ -11,7 +11,7 @@
         * [bugissuehw](bugissuehw.md)
         * [bugissueiq](bugissueiq.md)
         * [bugissuecc](bugissuecc.md)
-* QC
+* [QC](qc.md)
 * FAE
 * RMA
 
