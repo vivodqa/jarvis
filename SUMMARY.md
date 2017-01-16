@@ -2,16 +2,40 @@
 
 * [Introduction](README.md)
 * [DQA](chapter1.md)
-    * [bugid](bugid.md)
-    * [bugproject](bugproject.md)
-    * [bugissue](bugissue.md)
-        * [bugissuecv](bugissuecv.md)
-        * [bugissuesw](bugissuesw.md)
-        * [bugissuenvr](bugissuenvr.md)
-        * [bugissuehw](bugissuehw.md)
-        * [bugissueiq](bugissueiq.md)
-        * [bugissuecc](bugissuecc.md)
+    * [bug](bug.md)
+        * [bugid](bugid.md)
+        * [bugproject](bugproject.md)
+        * [bugissue](bugissue.md)
+            * [bugissuecv](bugissuecv.md)
+            * [bugissuesw](bugissuesw.md)
+            * [bugissuenvr](bugissuenvr.md)
+            * [bugissuehw](bugissuehw.md)
+            * [bugissueiq](bugissueiq.md)
+            * [bugissuecc](bugissuecc.md)
+    * [compatibility](compatibility.md)
+        * onvif
+        * sdcard
+    * [report](report.md)
+        * [reportcompeting](reportcompeting.md)
+        * [reportlowlight](reportlowlight.md)
+        * reportrelated
+    * [schedule](schedule.md)
+        * [status](status.md)
+    * [other](other.md)
+        * dqaissue
+        * kw
+        * [system](system.md)
 * [QC](qc.md)
-* [FAE](fae.md)
-* [RMA](rma.md)
+    * car
+    * pan
+    * qan
+    * scar
+* [FAE\/RMA](fae.md)
+    * faeissue
+    * [faetrace](faetrace.md)
+    * rmaissue
+    * rmatrace
+* Common
+    * phone
+    * movie
 
