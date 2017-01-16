@@ -17,14 +17,9 @@ bugproject cc8160
 > 查詢所有 Rossini 專案測試的 bug 狀態
 
 ```
-bugproject rossini555
+bugproject rossini
 ```
 
-查詢所有 Rossini 專案測試的 bug 狀態
-
-```
-bugproject rossini555
-```
 
 
 
