@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [DQA](chapter1.md)
     * [bug](bug.md)
-        * [bugid](bugid.md)
         * [bugproject](bugproject.md)
         * [bugissue](bugissue.md)
             * [bugissuecv](bugissuecv.md)
@@ -13,29 +12,30 @@
             * [bugissueiq](bugissueiq.md)
             * [bugissuecc](bugissuecc.md)
     * [compatibility](compatibility.md)
-        * onvif
-        * sdcard
+        * [sdcard](sdcard.md)
+        * [onvif](onvif.md)
     * [report](report.md)
         * [reportcompeting](reportcompeting.md)
         * [reportlowlight](reportlowlight.md)
-        * reportrelated
-    * [schedule](schedule.md)
-        * [status](status.md)
+        * [reportrelated](reportrelated.md)
     * [other](other.md)
-        * dqaissue
-        * kw
-        * [system](system.md)
-* [QC](qc.md)
-    * car
-    * pan
-    * qan
-    * scar
+        * [bugid](bugid.md)
+        * [dqaissue](dqaissue.md)
+        * [schedule](schedule.md)
+        * [status](status.md)
+* [QA](qc.md)
+    * [car](car.md)
+    * [pan](pan.md)
+    * [qan](qan.md)
+    * [scar](scar.md)
 * [FAE\/RMA](fae.md)
-    * faeissue
+    * [faeissue](faeissue.md)
     * [faetrace](faetrace.md)
-    * rmaissue
-    * rmatrace
-* Common
-    * phone
-    * movie
+    * [rmaissue](rmaissue.md)
+    * [rmatrace](rmatrace.md)
+* Other
+    * [kw](kw.md)
+    * [movie](movie.md)
+    * [phone](phone.md)
+    * [system](system.md)
 
