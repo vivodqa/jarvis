@@ -1,6 +1,6 @@
 # DQA Command List
 
-| Bug | Report | Compatibility | Other |
+| Bug | Report items | Compatibility | Other-dqa |
 | :--- | :--- | :--- | :--- |
 | bugproject | report | onvif | bugid |
 | bugissue | reportrelated | sdcard | dqaissue |

@@ -11,7 +11,7 @@
 ```
 bugissuehw reset
 ```
->查詢產品驗證組發過有關「電壓 reset」的 bug
+>查詢產品驗證組發過有關「電壓、reset」的 bug
 
 ```
 bugissuehw 電壓 reset

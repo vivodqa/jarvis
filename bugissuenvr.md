@@ -11,7 +11,7 @@
 ```
 bugissuenvr 空白
 ```
->查詢網路儲存驗證組發過有關「bugissuenvr 藍色 ND」的 bug
+>查詢網路儲存驗證組發過有關「bugissuenvr、藍色、ND」的 bug
 
 ```
 bugissuenvr 藍色 ND

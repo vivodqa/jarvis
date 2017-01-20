@@ -11,7 +11,7 @@
 ```
 bugissuecc reboot
 ```
->查詢容性驗證組發過有關「milestone PTZ」的 bug
+>查詢容性驗證組發過有關「milestone、PTZ」的 bug
 
 ```
 bugissuecc milestone PTZ

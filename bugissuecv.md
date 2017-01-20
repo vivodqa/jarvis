@@ -11,7 +11,7 @@
 ```
 bugissuecv VAST
 ```
->查詢韌體驗證組發過有關「延遲 lag」的 bug
+>查詢韌體驗證組發過有關「延遲、lag」的 bug
 
 ```
 bugissuecv 延遲 lag

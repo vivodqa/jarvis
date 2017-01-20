@@ -1,4 +1,4 @@
-# FAE Command List
+# FAE-RMA Command List
 
-## 功能：查詢 FAE, RMA 和 DQA, QA 串連資訊。
+## 功能：查詢 FAE, RMA 和 DQA, QA 串連資訊
 

@@ -14,7 +14,7 @@
 bugissue lag
 ```
 
-> 查詢「lag 延遲」所有相關的 bug
+> 查詢「lag、延遲」所有相關的 bug
 
 ```
 bugissue lag 延遲

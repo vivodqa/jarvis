@@ -11,7 +11,7 @@
 ```
 bugissuesw VAST
 ```
->查詢軟體驗證組發過有關「image 偏移」的 bug
+>查詢軟體驗證組發過有關「image、偏移」的 bug
 
 ```
 bugissuesw image 偏移
