@@ -18,7 +18,7 @@
     * [report](report.md)
     * [reportcompeting](reportcompeting.md)
     * [reportlowlight](reportlowlight.md)
-  * [other-dqa](other.md)
+  * [other-dqa](otherdqa.md)
     * [bugid](bugid.md)
     * [dqaissue](dqaissue.md)
     * [schedule](schedule.md)
