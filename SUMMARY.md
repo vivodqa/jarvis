@@ -16,7 +16,7 @@
     * [onvif](onvif.md)
   * [report items](report-items.md)
     * [report](report.md)
-    * [reportcompeting](reportcompeting.md)
+    * [reportiqpk](reportcompeting.md)
     * [reportlowlight](reportlowlight.md)
   * [other-dqa](otherdqa.md)
     * [bugid](bugid.md)

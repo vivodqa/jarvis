@@ -2,7 +2,7 @@
 
 | 說明 | 條件數 | 來源 | 行為 |
 | --- | --- | --- | --- |
-| 查詢專案時程和測試進度 | 3 | DQA redmine | 列出bugproject和schedule指令之結果|
+| 查詢專案時程和測試進度 | 3 | DQA redmine | 列出bugproject和schedule指令之結果 |
 
 ---
 
