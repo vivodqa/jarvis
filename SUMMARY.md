@@ -38,4 +38,5 @@
   * [movie](movie.md)
   * [phone](phone.md)
   * [system](system.md)
+  * [help](help.md)
 
