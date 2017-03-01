@@ -26,5 +26,11 @@ report 驗證三組 ND9541 2.1.0
 report FE9181 performance
 ```
 
+> 當不知道有哪些東西可查時，只輸入 report + \[model\]；將會列出該 model 所有在 testrail、dqa03 上的所有測試報告。
+
+```
+report FE9181
+```
+
 
 
