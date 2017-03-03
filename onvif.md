@@ -18,11 +18,21 @@
 onvif 15.06 SD9364
 ```
 
-或
+獲得查詢結果，點選Link
+
+![](/assets/onvif_sd9364_ver.jpg)
+
+查看查詢結果![](/assets/onvif_sd9364_ver_check.jpg)或輸入
 
 ```
 onvif SD9364 15.06
 ```
+
+獲得查詢結果，點選Link
+
+![](/assets/onvif_sd9364_ver_2.jpg)
+
+查看查詢結果![](/assets/onvif_sd9364_ver_check.jpg)
 
 **查詢特定機種是否曾經獲得 onvif 的認證 \(例如：CC8160 \)**
 
