@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [DQA](chapter1.md)
   * [bug](bug.md)
-    * [bugproject](bugproject.md)
+    * [dqaproject](bugproject.md)
     * [bugissue](bugissue.md)
       * [bugissuecv](bugissuecv.md)
       * [bugissuesw](bugissuesw.md)

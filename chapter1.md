@@ -2,7 +2,7 @@
 
 | Bug | Report items | Compatibility | Other-dqa |
 | :--- | :--- | :--- | :--- |
-| bugproject | report | onvif | bugid |
+| dqaproject | report | onvif | bugid |
 | bugissue | reportrelated | sdcard | dqaissue |
 | bugissuecv | reportcompeting |  | schedule |
 | bugissuesw | reportlowlight |  | status |
