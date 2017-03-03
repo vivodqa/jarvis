@@ -24,8 +24,6 @@ onvif 15.06 SD9364
 onvif SD9364 15.06
 ```
 
-
-
 **查詢特定機種是否曾經獲得 onvif 的認證 \(例如：CC8160 \)**
 
 ![](/assets/輸入視窗.jpg)
@@ -58,38 +56,21 @@ onvif fd
 
 查看查詢結果
 
-![](/assets/onvif_fd_check.jpg)  
+![](/assets/onvif_fd_check.jpg)
 
+**查詢特定的 onvif 版本有哪些 Camera 經過認證 \(例如：16.01、15.06 \)**
 
+![](blob:https://www.gitbook.com/ebbf3b1e-3d2f-401a-b5a5-1f47dad132cf)
 
+輸入
 
+```
+onvif 16.01
+```
 
+獲得查詢結果，點選Link
 
+![](/assets/onvif.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+查看查詢結果![](/assets/onvif_check.jpg)
 
