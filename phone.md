@@ -20,5 +20,11 @@ phone  Ethan
 phone 設計驗證部 Ethan
 ```
 
+查詢公司分機號碼的對應人
+
+```
+phone 5711
+```
+
 
 
