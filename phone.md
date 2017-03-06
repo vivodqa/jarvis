@@ -14,5 +14,11 @@
 phone  Ethan
 ```
 
+查詢公司某部門 Ethan 的分機表
+
+```
+phone 設計驗證部 Ethan
+```
+
 
 
