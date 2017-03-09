@@ -26,7 +26,7 @@ bugissuenvr指令的資料，是根據NVR小組在DQA Redmine的bug list\([http:
 
 使用者只能打入1-3個關鍵字，若沒有打入任何關鍵字，系統會告知Keyword number is too short，若打入超過3個關鍵字，系統則會告知Keyword number is too long。在打入關鍵字後， jarvis會根據符合所有關鍵字之交集，顯現出結果 ，若此搜尋是有效的搜尋， jarvis 會顯現出 link 字樣，點選字樣會跳出連結，若是無效的搜尋，jarvis則會顯現出There are no searching results.，代表使用者所輸入的關鍵字或是關鍵字之交集沒有出現在 bug issue 中。
 
-
+    
 
 以下進行示範：
 
