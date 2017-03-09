@@ -41,9 +41,9 @@ bugissuenvr指令的資料，是根據NVR小組在DQA Redmine的bug list\([http:
 
 jarvis會在3秒內回覆搜尋之結果\(如下圖\)
 
-![](/assets/bugissuenvr3.png)
+![](/assets/bugissuenvr4.png)
 
-點選 Link 連結查看搜尋結果
+點選 Link 連結查看搜尋結果![](/assets/bugissuenvr5.png)
 
 
 
