@@ -43,11 +43,35 @@ jarvis會在3秒內回覆搜尋之結果\(如下圖\)
 
 ![](/assets/bugissuenvr4.png)
 
-點選 Link 連結查看搜尋結果
-
-
-
-
+點選 Link 連結查看搜尋結果\(如下圖\)
 
 ![](/assets/bugissuenvr5.png)
+
+---
+
+以下為**搜尋結果頁面**的進一步說明：
+
+點選此下拉式選單\(如下圖\)，可以變更一頁所顯示的項目數量，分別可顯示成10、25、50、100項，一項就代表一個bug issue![](/assets/bugissuenvr6.png)
+
+在頁面的右上角可輸入更多關鍵字\(如下圖\)，可進一步篩選所有項目有包含的關鍵字![](/assets/bugissuenvr7.png)
+
+點選 Issue Subject 欄位下的連結，便可跳到該 bug的 DQA Redmine 的頁面，各欄位的資料便是從DQA Redmine 所擷取的，擷取的詳細資訊由下圖介紹
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
