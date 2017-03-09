@@ -35,7 +35,7 @@ bugissuenvr指令的資料，是根據NVR小組在DQA Redmine的bug list\([http:
 
 以下進行示範：
 
-此範例想要查詢 NVR 的 bug list 中，包含 ND9541p 和 camera這兩個關鍵字的bug，在搜尋處打上 " bugissuenvr nd9541p camera "\(如下圖\)，並按下 Enter鍵
+此範例想要查詢 NVR 的 bug list 中，是否有包含 ND9541p 和 camera這兩個關鍵字的bug issue，在搜尋處打上 " bugissuenvr nd9541p camera "\(如下圖\)，並按下 Enter鍵
 
 ![](/assets/bugissuenvr2.png)
 
@@ -43,13 +43,11 @@ jarvis會在3秒內回覆搜尋之結果\(如下圖\)
 
 ![](/assets/bugissuenvr4.png)
 
-點選 Link 連結查看搜尋結果![](/assets/bugissuenvr5.png)
+點選 Link 連結查看搜尋結果
 
 
 
 
 
-
-
-
+![](/assets/bugissuenvr5.png)
 
