@@ -57,7 +57,5 @@ jarvis會在3秒內回覆搜尋之結果\(如下圖\)
 
 點選 Issue Subject 欄位下的連結，便可跳到該 bug的 DQA Redmine 的頁面，各欄位的資料便是從DQA Redmine 所擷取的，擷取的
 
-詳細位置由下圖介紹![](/assets/bugissuenvr10.png)
-
-
+詳細位置由下圖介紹![](/assets/bugissuenvr11.png)
 
