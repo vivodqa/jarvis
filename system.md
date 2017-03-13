@@ -35,5 +35,23 @@
 system 工時
 ```
 
+查詢文管系統\(新系統&舊系統\)
+
+```
+system 文管
+```
+
+查詢公司內現有的Redmine系統
+
+```
+system redmine
+```
+
+查詢SAP系統\(已更名為BMP系統\)
+
+```
+system bmp
+```
+
 
 
