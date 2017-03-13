@@ -40,7 +40,7 @@ dqaissue alarm lag
 
 ![](/assets/2017-03-13_162547.PNG)
 
-> ---
+
 
 > * 查詢 DQA redmine 有關版本 2.1.3 和 push 交集相關的 issue
 
