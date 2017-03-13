@@ -24,7 +24,9 @@ dqaissue lag alarm
 
 查看查詢結果
 
-![](/assets/2017-03-10_143919.PNG)或輸入
+![](/assets/2017-03-10_143919.PNG)
+
+或輸入
 
 ```
 dqaissue alarm lag
@@ -37,8 +39,6 @@ dqaissue alarm lag
 查看查詢結果
 
 ![](/assets/2017-03-13_162547.PNG)
-
-
 
 > 查詢 DQA redmine 有關版本 2.1.3 和 push 交集相關的 issue
 
@@ -54,9 +54,19 @@ dqaissue 2.1.3 push
 
 查看查詢結果
 
+![](/assets/2017-03-13_170645.PNG)
 
+或輸入
 
+```
+dqaissue push 2.1.3
+```
 
+獲得查詢結果，點選 Link
 
+![](/assets/2017-03-13_171114.PNG)
 
+查看查詢結果
+
+![](/assets/2017-03-13_170746.PNG)
 
