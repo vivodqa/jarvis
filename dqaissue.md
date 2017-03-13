@@ -18,13 +18,7 @@ dqaissue lag alarm
 
 
 
-![](/assets/2017-03-10_144858.PNG)
-
-
-
 ![](/assets/2017-03-10_145500.PNG)
-
-
 
 ![](/assets/2017-03-10_143919.PNG)
 
