@@ -8,49 +8,35 @@
 
 使用情境
 
-
-
 > 查詢軟體驗證組主旨及內容有「CPU」的 bug
 
-    `bugissuesw CPU`
-
-
+```
+bugissuesw CPU
+```
 
 > 查詢軟體驗證組 Status 為「New」且 Project 為「EZConnect」的 bug
 
-    `bugissuesw new ezconnect`
-
-
+```
+bugissuesw new ezconnect
+```
 
 > 查詢軟體驗證組「FAE」回報且 customer type 為「Distributor」 的 bug
 
-    `bugissuesw fae distributor`
-
-
+```
+bugissuesw fae distributor
+```
 
 > 查詢軟體驗證組 Project 為「iViewer」且主旨內容含「crash」的 bug
 
-    `bugissuesw iviewer crash`
-
-
+```
+bugissuesw iviewer crash
+```
 
 > 查詢軟體驗證組 Project 為「VAST」且測試 camera 為「IP9181」的 bug
 
-     `bugissuesw VAST ip9181`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+ bugissuesw VAST ip9181
+```
 
 
 
