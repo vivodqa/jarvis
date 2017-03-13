@@ -8,7 +8,7 @@
 
 ## 使用情境
 
-> 查詢 DQA redmine 有關 lag 和 alarm 交集相關的issue
+> 查詢 DQA redmine 有關 lag 和 alarm 交集相關的 issue
 
 輸入
 
@@ -18,11 +18,45 @@ dqaissue lag alarm
 
 ![](/assets/2017-03-10_143613.PNG)
 
-獲得查詢結果，點選Link
+獲得查詢結果，點選 Link
 
-![](/assets/2017-03-10_145500.PNG)
+![](/assets/2017-03-13_162901.PNG)
 
 查看查詢結果
 
-![](/assets/2017-03-10_143919.PNG)
+![](/assets/2017-03-10_143919.PNG)或輸入
+
+```
+dqaissue alarm lag
+```
+
+獲得查詢結果，點選 Link
+
+![](/assets/2017-03-13_162921.PNG)
+
+查看查詢結果
+
+![](/assets/2017-03-13_162547.PNG)
+
+
+
+> 查詢 DQA redmine 有關版本 2.1.3 和 push 交集相關的 issue
+
+輸入
+
+```
+dqaissue 2.1.3 push
+```
+
+獲得查詢結果，點選 Link
+
+![](/assets/2017-03-13_171106.PNG)
+
+查看查詢結果
+
+
+
+
+
+
 
