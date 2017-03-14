@@ -17,6 +17,7 @@
     * [bugissuecc](bugissuecc.md)
   * [report items](report-items.md)
     * [report](report.md)
+    * [reportrelated](reportrelated.md)
     * [reportiqpk](reportcompeting.md)
     * [reportlowlight](reportlowlight.md)
   * [other-dqa](otherdqa.md)

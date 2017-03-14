@@ -1,4 +1,4 @@
-# 指令名稱：reportlight
+# 指令名稱：reportlowlight
 
 | 說明 | 條件數 | 來源 | 行為 |
 | --- | --- | --- | --- |
