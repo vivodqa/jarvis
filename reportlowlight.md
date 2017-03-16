@@ -32,7 +32,7 @@ reportlowlight ip9171 ip9181     NG!
 reportlowlight ip9181
 ```
 
-> 查詢\[影像驗證組\]的IP9181專案使用的鏡頭型號以及Low Lex規格。
+> 查詢\[影像驗證組\]的IP9181專案使用的鏡頭型號以及Low Lux規格。
 
 ```
 reportlowlight ip9181
