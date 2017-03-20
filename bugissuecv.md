@@ -44,6 +44,12 @@ bugissuecv IP816A 瀏覽器 Firefox
 bugissuecv CC8160 flip mirror
 ```
 
+> 查詢韌體驗證組發過有關「Rossini 機種與 reboot 相關的 common bug」
+
+```
+bugissuecv Rossini common reboot
+```
+
 ## 補充說明
 
 1. 使用者只能夠輸入1~3組關鍵字。
