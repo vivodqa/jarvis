@@ -12,7 +12,7 @@
 | DQA Wiki | [http://192.168.14.3:9000/wiki/index.php/DQA](http://192.168.14.3:9000/wiki/index.php/DQA) |
 | DQA KM | [http://dqa03/qmdkm/](http://dqa03/qmdkm/) |
 | DQA TestRail | [http://dqa03/testrail/](http://dqa03/testrail/) |
-| DQA Cloud Auto test | [http://cloud-test/](http://cloud-test/) |
+| DQA Cloud test | [http://cloud-test/](http://cloud-test/) |
 | RD Redmine | [http://rd1-1/redmine](http://rd1-1/redmine) |
 | RD Wiki | [http://172.16.5.30/rd1wiki/index.php](http://172.16.5.30/rd1wiki/index.php) |
 | Mail Service | [https://mail.vivotek.com/owa](https://mail.vivotek.com/owa) |
