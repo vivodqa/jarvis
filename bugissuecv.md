@@ -72,7 +72,7 @@ bugissuecv MS8391 Limitation
 bugissuecv FD8166A-S New
 ```
 
-
+#### 
 
 #### 情境四：查詢 \[專案\] \[FW version\] 相關 Bug
 
@@ -92,8 +92,6 @@ bugissuecv IP816A 0200c
 bugissuecv Rossini common reboot
 ```
 
-
-
 ---
 
 ## 指令使用說明
@@ -102,8 +100,6 @@ bugissuecv Rossini common reboot
 2. 關鍵字必須用空白來區格。
 3. 不同專案的 Bug 建議輸入專案名稱來區隔，以便搜尋到更精確的結果。
 4. 若輸入多個字串：Bugissuecv SD card，目前 bugissue 的搜尋機制會將查詢的字串判別為「SD」和「card」分開查詢。
-
-
 
 ---
 
