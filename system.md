@@ -47,10 +47,10 @@ system 文管
 system redmine
 ```
 
-查詢SAP系統\(已更名為BMP系統\)
+查詢SAP系統\(已更名為BPM系統\)
 
 ```
-system bmp
+system bpm
 ```
 
 
