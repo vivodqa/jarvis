@@ -54,7 +54,8 @@ bugissuecv Rossini common reboot
 
 1. 使用者只能夠輸入1~3組關鍵字。
 2. 關鍵字必須用空白來區格。
-3. 不同專案的Bug建議輸入專案名稱來區隔，以便搜尋到更精確的結果。
+3. 不同專案的 Bug 建議輸入專案名稱來區隔，以便搜尋到更精確的結果。
+4. 若輸入多個字串：Bugissuecv SD card，目前 bugissue 的搜尋機制會將查詢的字串判別為「SD」和「card」分開查詢。
 
 
 
