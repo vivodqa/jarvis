@@ -20,6 +20,7 @@ dqaproject cc8160
 dqaproject rossini
 ```
 
+查詢 Rossini 專案MD8565-N測試的 bug 狀態
 
-
+dqaproject rossini md8565-n
 
