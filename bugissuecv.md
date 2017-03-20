@@ -8,6 +8,8 @@
 
 ## 使用情境
 
+#### 情境一：查詢特定功能相關的Bug
+
 > 查詢韌體驗證組發過有關「VAST」的 Bug
 
 ```
@@ -19,6 +21,14 @@ bugissuecv VAST
 ```
 bugissuecv 延遲 lag
 ```
+
+> 查詢韌體驗證組發過有關「Motion、閃一下、壓力測試」的 Bug
+
+```
+bugissuecv Motion 閃一下 壓力測試
+```
+
+#### 情境二：查詢專案下特定功能相關的Bug
 
 > 查詢韌體驗證組發過有關「MS8392 壓力測試」的 Bug
 
@@ -32,6 +42,12 @@ bugissuecv MS8392 壓力測試
 bugissuecv IB8377 WDR
 ```
 
+> 查詢韌體驗證組發過有關「MS8391、Limitation」的 Bug
+
+```
+bugissuecv MS8391 Limitation
+```
+
 > 查詢韌體驗證組發過有關「IP816A 與 Firefox 瀏覽器」的 Bug
 
 ```
@@ -43,6 +59,8 @@ bugissuecv IP816A 瀏覽器 Firefox
 ```
 bugissuecv CC8160 flip mirror
 ```
+
+#### 情境三：查詢 Common Bug
 
 > 查詢韌體驗證組發過有關「Rossini 機種與 reboot 相關的 common bug」
 
