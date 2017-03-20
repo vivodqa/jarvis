@@ -8,7 +8,7 @@
 
 ## 使用情境
 
-#### 情境一：查詢 \[特定功能\] 相關的 Bug
+#### 情境一：查詢 \[特定功能\] 相關 Bug
 
 > 查詢韌體驗證組發過有關「VAST」的 Bug
 
@@ -28,7 +28,9 @@ bugissuecv 延遲 lag
 bugissuecv Motion 閃一下 壓力測試
 ```
 
-#### 情境二：查詢 \[專案\] \[特定功能\] 相關的 Bug
+#### 
+
+#### 情境二：查詢 \[專案\] \[特定功能\] 相關 Bug
 
 > 查詢韌體驗證組發過有關「MS8392 壓力測試」的 Bug
 
@@ -40,12 +42,6 @@ bugissuecv MS8392 壓力測試
 
 ```
 bugissuecv IB8377 WDR
-```
-
-> 查詢韌體驗證組發過有關「MS8391、Limitation」的 Bug
-
-```
-bugissuecv MS8391 Limitation
 ```
 
 > 查詢韌體驗證組發過有關「IP816A 與 Firefox 瀏覽器」的 Bug
@@ -60,7 +56,25 @@ bugissuecv IP816A 瀏覽器 Firefox
 bugissuecv CC8160 flip mirror
 ```
 
-#### 情境三：查詢 \[Common Bug\]
+#### 
+
+#### 情境三：查詢 \[專案\] \[特定狀態\] 相關 Bug
+
+> 查詢韌體驗證組發過有關「MS8391 狀態為 Limitation」的 Bug
+
+```
+bugissuecv MS8391 Limitation
+```
+
+> 查詢韌體驗證組發過有關「FD8166A-S 狀態為 New」的 Bug
+
+```
+bugissuecv FD8166A-S New
+```
+
+#### 
+
+#### 情境四：查詢 \[Common Bug\]
 
 > 查詢韌體驗證組發過有關「Rossini 機種與 reboot 相關的 common bug」
 
@@ -68,12 +82,16 @@ bugissuecv CC8160 flip mirror
 bugissuecv Rossini common reboot
 ```
 
+## 
+
 ## 指令使用說明
 
 1. 使用者只能夠輸入1~3組關鍵字。
 2. 關鍵字必須用空白來區格。
 3. 不同專案的 Bug 建議輸入專案名稱來區隔，以便搜尋到更精確的結果。
 4. 若輸入多個字串：Bugissuecv SD card，目前 bugissue 的搜尋機制會將查詢的字串判別為「SD」和「card」分開查詢。
+
+## 
 
 ## 提示訊息
 
