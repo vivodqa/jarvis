@@ -58,7 +58,7 @@ bugissuecv CC8160 flip mirror
 
 #### 
 
-#### 情境三：查詢 \[專案\] \[特定狀態\] 相關 Bug
+#### 情境三：查詢 \[專案\] \[特定 Status\] 相關 Bug
 
 > 查詢韌體驗證組發過有關「MS8391 狀態為 Limitation」的 Bug
 
@@ -72,9 +72,19 @@ bugissuecv MS8391 Limitation
 bugissuecv FD8166A-S New
 ```
 
-#### 
 
-#### 情境四：查詢 \[Common Bug\]
+
+#### 情境四：查詢 \[專案\] \[FW version\] 相關 Bug
+
+> 查詢韌體驗證組發過有關「IP816A 0200c」的 Bug
+
+```
+bugissuecv IP816A 0200c
+```
+
+
+
+#### 情境五：查詢 \[Common Bug\]
 
 > 查詢韌體驗證組發過有關「Rossini 機種與 reboot 相關的 common bug」
 
@@ -82,7 +92,9 @@ bugissuecv FD8166A-S New
 bugissuecv Rossini common reboot
 ```
 
-## 
+
+
+---
 
 ## 指令使用說明
 
@@ -91,7 +103,11 @@ bugissuecv Rossini common reboot
 3. 不同專案的 Bug 建議輸入專案名稱來區隔，以便搜尋到更精確的結果。
 4. 若輸入多個字串：Bugissuecv SD card，目前 bugissue 的搜尋機制會將查詢的字串判別為「SD」和「card」分開查詢。
 
-## 
+
+
+
+
+---
 
 ## 提示訊息
 
