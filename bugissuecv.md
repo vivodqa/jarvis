@@ -32,11 +32,10 @@ bugissuecv IB8377 WDR
 bugissuecv IP816A 瀏覽器 Firefox
 ```
 
-
-
 ## 使用限制
 
-
-
+1. 使用者只能夠輸入1~3組關鍵字。
+2. 關鍵字必須用空白來區格。
+3. 
 
 
