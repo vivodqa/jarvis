@@ -8,37 +8,37 @@
 
 ## 使用情境
 
-> 查詢韌體驗證組發過有關「VAST」的 bug
+> 查詢韌體驗證組發過有關「VAST」的 Bug
 
 ```
 bugissuecv VAST
 ```
 
-> 查詢韌體驗證組發過有關「延遲、lag」的 bug
+> 查詢韌體驗證組發過有關「延遲、lag」的 Bug
 
 ```
 bugissuecv 延遲 lag
 ```
 
-> 查詢韌體驗證組發過有關「MS8392 壓力測試」的Bug
+> 查詢韌體驗證組發過有關「MS8392 壓力測試」的 Bug
 
 ```
 bugissuecv MS8392 壓力測試
 ```
 
-> 查詢韌體驗證組發過有關「IB8377 與 WDR 功能」的Bug
+> 查詢韌體驗證組發過有關「IB8377 與 WDR 功能」的 Bug
 
 ```
 bugissuecv IB8377 WDR
 ```
 
-> 查詢韌體驗證組發過有關「IP816A 與 Firefox 瀏覽器」的Bug
+> 查詢韌體驗證組發過有關「IP816A 與 Firefox 瀏覽器」的 Bug
 
 ```
 bugissuecv IP816A 瀏覽器 Firefox
 ```
 
-> 查詢韌體驗證組發過有關「CC8160 與 Flip Mirror」的Bug
+> 查詢韌體驗證組發過有關「CC8160 與 Flip Mirror 」的 Bug
 
 ```
 bugissuecv CC8160 flip mirror
