@@ -2,7 +2,7 @@
 
 | 說明 | 條件數 | 來源 | 行為 |
 | --- | --- | --- | --- |
-| 查詢\[影像驗證組\]的lowlight report數據，可知道道進測的最終版本，其低照影像品質和Bitrate。 | 3 | 影像驗證組在dqa03上02\_TestReport\03\_Project的lowlight report | 針對「廠牌」、「型號」欄位找尋，符合所有「搜尋條件」的「交集」結果。 |
+| 查詢\[影像驗證組\]的lowlight report數據，可知道進測的最終版本，其低照影像品質和Bitrate。 | 3 | 影像驗證組在dqa03上02\_TestReport\03\_Project的lowlight report | 針對「型號」欄位找尋，符合所有「搜尋條件」的「交集」結果。 |
 
 ---
 
@@ -12,13 +12,7 @@
 reportlowlight SD9364
 ```
 
-規則二：競品產品輸入廠牌+型號中的四位數字即可。例如Bosch NBN80052-BA。
-
-```
-reportlowlight bosch 0052
-```
-
-規則三：目前Javis版本，無法支援「聯集」（同時比較兩台）的搜尋條件。
+規則二：目前Javis版本，無法支援「聯集」（同時比較兩台）的搜尋條件。
 
 ```
 reportlowlight ip9171 ip9181
