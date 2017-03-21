@@ -21,7 +21,9 @@ reportlowlight bosch 0052
 規則三：目前Javis版本，無法支援「聯集」（同時比較兩台）的搜尋條件。
 
 ```
-reportlowlight ip9171 ip9181     NG!
+reportlowlight ip9171 ip9181
+
+There are no searching results.
 ```
 
 ## 使用情境
@@ -32,7 +34,7 @@ reportlowlight ip9171 ip9181     NG!
 reportlowlight ip9181
 ```
 
-> 查詢\[影像驗證組\]的IP9181專案使用的鏡頭型號以及Low Lux規格。
+> 查詢\[影像驗證組\]的IP9181專案使用的Sensor、Lens以及MMI規格。
 
 ```
 reportlowlight ip9181
