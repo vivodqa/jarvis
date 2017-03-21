@@ -2,7 +2,7 @@
 
 | 說明 | 條件數 | 來源 | 行為 |
 | --- | --- | --- | --- |
-| 查詢\[影像驗證組\]的lowlight report數據，可知道進測的最終版本，其低照不同亮度的解析、FPS和Bitrate。 | 3 | 影像驗證組在\dqa03\IQ\_Testdata\03\_Project\Low Light Compare Test Data.xls | 針對「型號」欄位找尋，符合所有「搜尋條件」的「交集」結果。 |
+| 查詢\[影像驗證組\]的lowlight report數據，可知道進測的最終版本，其低照不同亮度的解析、FPS和Bitrate。 | 3 | 影像驗證組在 \\dqa03\IQ\_Testdata\03\_Project\Low Light Compare Test Data.xls | 針對「型號」欄位找尋，符合所有「搜尋條件」的「交集」結果。 |
 
 ---
 
