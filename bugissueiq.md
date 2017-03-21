@@ -9,7 +9,9 @@
 規則一：目前Javis版本，無法支援「聯集」（同時搜尋兩個相似義）的搜尋條件。
 
 ```
-bugissueiq awb 白平衡     NG!
+bugissueiq awb 白平衡
+
+There are no searching results.
 ```
 
 規則二：目前Javis版本，無法僅針對「標題」做關鍵字。故搜尋出來可能會出現較多較亂的結果。
@@ -18,14 +20,14 @@ bugissueiq awb 白平衡     NG!
 bugissueiq wdr
 ```
 
-規則三：由於One FW，在Redmine中，有些bug會在Common Bug，有些bug會在專案裡。需分別搜尋。
+規則三：由於One FW，在Redmine中，有些bug會在Common Bug，有些bug會在專案裡。所以，需分別搜尋。
 
 ```
 bugissueiq ip9181 rolling
 ```
 
 ```
-bugissueiq common rolling
+bugissueiq hisilicon common rolling
 ```
 
 ## 使用情境
