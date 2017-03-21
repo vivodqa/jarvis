@@ -8,7 +8,7 @@
 
 ## 使用情境
 
-> 查詢id為63981，並直接連結至該bug issue。
+> 已知欲查詢的id number為63981，可直接連結至該bug issue。
 
 ```
 bugid 63981
