@@ -2,7 +2,7 @@
 
 | 說明 | 條件數 | 來源 | 行為 |
 | --- | --- | --- | --- |
-| 查詢\[影像驗證組\]的lowlight report數據，可知道進測的最終版本，其低照影像品質和Bitrate。 | 3 | 影像驗證組在dqa03上02\_TestReport\03\_Project的lowlight report | 針對「型號」欄位找尋，符合所有「搜尋條件」的「交集」結果。 |
+| 查詢\[影像驗證組\]的lowlight report數據，可知道進測的最終版本，其低照不同亮度的解析、FPS和Bitrate。 | 3 | 影像驗證組在\dqa03\IQ\_Testdata\03\_Project\Low Light Compare Test Data.xls | 針對「型號」欄位找尋，符合所有「搜尋條件」的「交集」結果。 |
 
 ---
 
@@ -12,7 +12,7 @@
 reportlowlight SD9364
 ```
 
-規則二：目前Javis版本，無法支援「聯集」（同時比較兩台）的搜尋條件。
+規則二：目前Jarvis版本，無法支援「聯集」（同時比較兩台）的搜尋條件。
 
 ```
 reportlowlight ip9171 ip9181
@@ -22,7 +22,7 @@ There are no searching results.
 
 ## 使用情境
 
-> 查詢\[影像驗證組\]的IP9181專案中，其Low Light影像品質以及Bitrate為何？
+> 查詢\[影像驗證組\]的IP9181專案中，其Low Light解析、FPS和Bitrate為何？
 
 ```
 reportlowlight ip9181
