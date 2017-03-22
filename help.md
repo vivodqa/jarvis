@@ -18,15 +18,13 @@ help
 
 ```
 help bugissue
-
 ```
 
-查詢issue相關的指令
+模糊搜尋 ex: 查詢issue相關的指令
 
-```
 help issue
 
-```
+結果: 列出包含issue的指令 , ex : 列出 bugissue , bugissuecc 等等的指令
 
 
 
