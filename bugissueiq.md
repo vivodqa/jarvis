@@ -2,7 +2,7 @@
 
 | 說明 | 條件數 | 來源 | 行為 |
 | --- | --- | --- | --- |
-| 在DQA Redmine專案Bug Issue，依照Tracker: IQ Bug和IQ Common Bug找尋符合條件的IQ bug issue。 | 3 | DQA Redmine：http://dqa02/projects/dqa-test-1-bug | 針對「subject, description, id, status, tracker, custom fields, project目錄」欄位找尋，符合所有「搜尋條件」的「交集」之bug。 |
+| 在DQA Redmine專案Bug Issue，依照Tracker: IQ Bug和IQ Common Bug找尋符合條件的IQ bug issue。 | 3 | DQA Redmine：[http://dqa02/projects/dqa-test-1-bug](http://dqa02/projects/dqa-test-1-bug) | 針對「subject, description, id, status, tracker, custom fields, project目錄」欄位找尋，符合所有「搜尋條件」的「交集」之bug。 |
 
 ---
 
