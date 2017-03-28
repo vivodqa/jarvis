@@ -82,6 +82,12 @@ bugissuecv FD8166A-S New
 bugissuecv IP816A 0200c
 ```
 
+> 查詢韌體驗證組發過有關「CC8160 與 PKG ver:1.1a.a.1.3.28」的 Bug
+
+```
+bugissuecv CC8160 1.1a.a.1.3.28
+```
+
 #### 
 
 #### 情境五：查詢 \[Common Bug\]
@@ -102,6 +108,7 @@ bugissuecv Rossini common reboot
 2. 關鍵字必須用空白來區格。
 3. 不同專案的 Bug 建議輸入專案名稱來區隔，以便搜尋到更精確的結果。
 4. 若輸入多個字串：Bugissuecv SD card，目前 bugissue 的搜尋機制會將查詢的字串判別為「SD」和「card」分開查詢。
+5. 目前 Jarvis 無法僅針對標題搜尋，Bug 內容包含關鍵字時，也會被列為搜尋結果。
 
 ---
 
