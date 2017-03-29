@@ -8,7 +8,7 @@
 
 ## 使用情境
 
-> 查詢 6B series 的測試進度
+> 1.查詢 6B series 的測試進度
 
 ```
 schedule 6B
@@ -18,13 +18,33 @@ schedule 6B
 
 ![](/assets/search_6B.jpg)
 
-查詢 6B series 的測試進度
+> 2. 查詢 6B series 中 form factor 為 fixed dome 且光圈為 f3 機種的測試進度
 
 ```
-schedule 6B f3 rossini
+schedule 6B fd f3
 ```
 
 查詢結果
 
-![](/assets/search_6B_f3_rossini.jpg)
+![](/assets/search_6B_fd_f3.jpg)
+
+> 3. 查詢 VAST 的測試進度
+
+```
+schedule VAST
+```
+
+查詢結果
+
+![](/assets/search_VAST.jpg)
+
+> 4. 查詢 ND series 的 NVR 測試進度
+
+```
+schedule ND
+```
+
+查詢結果
+
+![](/assets/search_ND.jpg)
 
