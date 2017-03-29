@@ -18,7 +18,7 @@ schedule 6B
 
 ![](/assets/search_6B.jpg)
 
-> 2. 查詢 6B series 中 form factor 為 fixed dome 且光圈為 f3 機種的測試進度
+> 2.查詢 6B series 中 form factor 為 fixed dome 且光圈為 f3 機種的測試進度
 
 ```
 schedule 6B fd f3
@@ -28,7 +28,7 @@ schedule 6B fd f3
 
 ![](/assets/search_6B_fd_f3.jpg)
 
-> 3. 查詢 VAST 的測試進度
+> 3.查詢 VAST 的測試進度
 
 ```
 schedule VAST
@@ -38,7 +38,7 @@ schedule VAST
 
 ![](/assets/search_VAST.jpg)
 
-> 4. 查詢 ND series 的 NVR 測試進度
+> 4.查詢 ND series 的 NVR 測試進度
 
 ```
 schedule ND
