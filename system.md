@@ -53,5 +53,11 @@ system redmine
 system bpm
 ```
 
+查詢所有可供查詢的系統
+
+```
+system
+```
+
 
 
