@@ -70,3 +70,27 @@ JARVIS 查詢結果：
 
 ![](/assets/2017-03-13_170746.PNG)
 
+查詢特定機種的專案狀態為何 \(含歷史所有版本狀態\)
+
+輸入
+
+```
+dqaissue [Firmware Release] FD8166
+```
+
+![](/assets/2017-03-10_143613.PNG)
+
+出現查詢結果，開啟 Link
+
+![](/assets/dqaissue [Firmware Release] FD8166)
+
+JARVIS 查詢結果：
+
+![](/assets/dqaissue [Firmware Release] FD8166 check)
+
+
+
+
+
+
+
